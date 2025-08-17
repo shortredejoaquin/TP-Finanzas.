@@ -89,7 +89,7 @@ capital, perfil de riesgo y comunicación con stakeholders financieros.
     que **gran parte del upside ya descuenta normalización
     macro/volumétrica**.
 
-### 3.4 Riesgos y Mitigantes (síntesis)
+### 3.4 Riesgos y Mitigantes
 
 -   **Regulatorio/cambiario:** top risk. *Mitigante:* diálogo sectorial,
     diversificación de fuentes de ingresos (data, post-trade, listings
