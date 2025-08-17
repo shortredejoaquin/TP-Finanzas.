@@ -141,7 +141,7 @@ capital, perfil de riesgo y comunicación con stakeholders financieros.
 
 -   **Tesis de repago:** negocio con **flujo operativo recurrente** y
     baja intensidad de capital; exposición principal es **riesgo
-    macro/regulatorio** más que operativo puro.\
+    macro/regulatorio** más que operativo puro.
 -   **Cláusulas sugeridas:** *covenants* de cobertura de intereses/FCF,
     límites de endeudamiento neto, y **reporte trimestral** de KPIs de
     volumen, uptime, y métricas de ciber/continuidad.
@@ -150,7 +150,7 @@ capital, perfil de riesgo y comunicación con stakeholders financieros.
 
 ## Anexos
 
-**A. Metodología (resumen):**\
+**A. Metodología (resumen):**
 - **Datos de mercado (5 años):** descarga/limpieza con `yfinance`;
 indicadores: SMA(50/200), RSI(14), MACD; *backtesting* básico de cruces
 y filtros de tendencia.
@@ -160,7 +160,7 @@ WACC **12%**, crecimiento 1--3 años **8%**, 4--5 años **5%**, ∞ **3%**,
 - **Escenarios macro:** Optimista 25% / Base 50% / Pesimista 25% con
 impactos en WACC, volumen y múltiplos.
 
-**B. Sensibilidad DCF (precio/acción, USD):**\
+**B. Sensibilidad DCF (precio/acción, USD):**
 - **WACC 10%:** g∞ 2% → **4,66** \| 3% → **5,16** \| 4% → **5,83**
 - **WACC 12%:** g∞ 2% → **3,71** \| 3% → **4,00** \| 4% → **4,36**
 - **WACC 14%:** g∞ 2% → **3,07** \| 3% → **3,26** \| 4% → **3,48**
