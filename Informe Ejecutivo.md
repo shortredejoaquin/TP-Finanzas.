@@ -74,14 +74,14 @@ capital, perfil de riesgo y comunicación con stakeholders financieros.
 
 ### 3.3 Valoración Fundamental (DCF)
 
--   **Inputs clave (extraídos de los notebooks Parte 3):**\
+-   **Inputs clave (extraídos de los notebooks Parte 3):**
     Ingresos actuales **USD 85m**, FCF actual **USD 12,5m**, **42m** de
     acciones; margen FCF **14,7%**; WACC **12%**; crecimiento 1--3 años
     **8%**, 4--5 años **5%**, g∞ **3%**.
--   **Resultado base:** **\~USD 4,0/acc**.\
+-   **Resultado base:** **\~USD 4,0/acc**.
     **Sensibilidad (precio/acc):**
-    -   WACC **10%**: g∞ 2--4% → **USD 4,66--5,83**\
-    -   WACC **12%**: g∞ 2--4% → **USD 3,71--4,36**\
+    -   WACC **10%**: g∞ 2--4% → **USD 4,66--5,83**
+    -   WACC **12%**: g∞ 2--4% → **USD 3,71--4,36**
     -   WACC **14%**: g∞ 2--4% → **USD 3,07--3,48**
 -   **Lectura:** bajo un WACC acorde al riesgo argentino, el valor
     intrínseco estimado queda **por debajo** de un precio de mercado de
@@ -153,28 +153,21 @@ capital, perfil de riesgo y comunicación con stakeholders financieros.
 **A. Metodología (resumen):**\
 - **Datos de mercado (5 años):** descarga/limpieza con `yfinance`;
 indicadores: SMA(50/200), RSI(14), MACD; *backtesting* básico de cruces
-y filtros de tendencia.\
+y filtros de tendencia.
 - **Valoración DCF:** ingresos base **USD 85m**, margen FCF **14,7%**,
-WACC **12%**, crecimiento 1--3 años **8%**, 4--5 años **5%**, g∞ **3%**,
-42m de acciones; horizonte 5 años + valor terminal.\
+WACC **12%**, crecimiento 1--3 años **8%**, 4--5 años **5%**, ∞ **3%**,
+42m de acciones; horizonte 5 años + valor terminal.
 - **Escenarios macro:** Optimista 25% / Base 50% / Pesimista 25% con
 impactos en WACC, volumen y múltiplos.
 
 **B. Sensibilidad DCF (precio/acción, USD):**\
-- **WACC 10%:** g∞ 2% → **4,66** \| 3% → **5,16** \| 4% → **5,83**\
-- **WACC 12%:** g∞ 2% → **3,71** \| 3% → **4,00** \| 4% → **4,36**\
+- **WACC 10%:** g∞ 2% → **4,66** \| 3% → **5,16** \| 4% → **5,83**
+- **WACC 12%:** g∞ 2% → **3,71** \| 3% → **4,00** \| 4% → **4,36**
 - **WACC 14%:** g∞ 2% → **3,07** \| 3% → **3,26** \| 4% → **3,48**
 
-**C. Principales riesgos (detalle y mitigación):**\
+**C. Principales riesgos (detalle y mitigación):**
 - Cambiario/controles, macro/tasas reales altas, volumen doméstico,
 ciber/operacional. Mitigaciones propuestas en §3.4.
 
 ------------------------------------------------------------------------
 
-### Nota final
-
-Las cifras y supuestos de valoración y contexto macro provienen de los
-**notebooks proporcionados**. Cambios en WACC, crecimiento, mix de
-ingresos o regulación pueden alterar significativamente las
-conclusiones. Recomiendo **actualizar esta valoración trimestralmente**
-y complementar con *peer benchmarking* regional.
