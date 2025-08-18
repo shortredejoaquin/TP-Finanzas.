@@ -6,8 +6,8 @@
 
 **Fecha de Emisión:** Agosto 2025  
 **Horizonte Analizado:** Últimos 5 años (2020-2025)  
-**Audiencia:** Directorio, Gerencia, Potenciales Inversores, Comité de Inversiones  
-**Clasificación:** CONFIDENCIAL  
+**Audiencia:** FACULTAD DE UTN 
+  
 
 ---
 
@@ -367,8 +367,3 @@ La recomendación se basa en:
 **DISCLAIMER:** Este informe constituye análisis con fines informativos. Las proyecciones están basadas en supuestos que pueden cambiar. Resultados pasados no garantizan rendimientos futuros. La inversión en activos argentinos conlleva riesgos específicos. Se recomienda consultar con asesor financiero antes de tomar decisiones de inversión.
 
 ---
-
-**CLASIFICACIÓN:** CONFIDENCIAL  
-**PREPARADO POR:** Equipo de Research  
-**APROBADO POR:** Comité de Inversiones  
-**FECHA:** Agosto 2025
