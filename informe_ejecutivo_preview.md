@@ -363,7 +363,3 @@ La recomendación se basa en:
 - **Triggers de actualización:** Resultados, regulación, macro
 
 ---
-
-**DISCLAIMER:** Este informe constituye análisis con fines informativos. Las proyecciones están basadas en supuestos que pueden cambiar. Resultados pasados no garantizan rendimientos futuros. La inversión en activos argentinos conlleva riesgos específicos. Se recomienda consultar con asesor financiero antes de tomar decisiones de inversión.
-
----
